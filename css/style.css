@@ -9524,3 +9524,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.instaPic{
+  /* margin: 100px !important; */
+ width:300px; 
+ height:300px; 
+}
