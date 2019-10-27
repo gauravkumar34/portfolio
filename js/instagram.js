@@ -9,7 +9,7 @@ var userFeed = new Instafeed({
   resolution: "standard_resolution",
   template: `<div class="col-md-3 "> <img src="{{image}}" class="instaPic"> </div>  `,
   sortBy: "most-recent",
-  limit: 4,
+  limit: 8,
   links: false
 });
 userFeed.run();
